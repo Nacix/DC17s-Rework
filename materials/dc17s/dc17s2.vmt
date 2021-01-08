@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "dc17s/dc17s_cs"
+	$bumpmap "dc17s/dc17s_nm"
+	
+	$selfillum 1
+    $selfillummask "dc17s/dc17s_glow"
+}

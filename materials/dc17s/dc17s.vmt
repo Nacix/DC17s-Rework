@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$basetexture "dc17s/dc17s_cs"
+	$bumpmap "dc17s/dc17s_nm"
+}
