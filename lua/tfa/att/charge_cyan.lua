@@ -14,12 +14,10 @@ ATTACHMENT.WeaponTable = {}
 
 function ATTACHMENT:Attach(wep)
 	wep.ChargeIconColor = Color( 0, 255, 255 )
-	--wep:Unload()
 end
 
 function ATTACHMENT:Detach(wep)
 	wep.ChargeIconColor = Color( 255, 0, 80 )
-	--wep:Unload()
 end
 
 if not TFA_ATTACHMENT_ISUPDATING then
